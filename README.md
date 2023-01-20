@@ -1,4 +1,4 @@
-# AluraPlus
+
 
   <h1 align="center">
     <img src="https://ik.imagekit.io/cpubcba62/logo__2_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1674224334500"/>
